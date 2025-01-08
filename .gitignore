@@ -2,9 +2,13 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+.python-version
+Gitbook_작업.ipynb
+*.css
 # C extensions
 *.so
+poetry.lock
+pyproject.toml
 
 # Distribution / packaging
 .Python
